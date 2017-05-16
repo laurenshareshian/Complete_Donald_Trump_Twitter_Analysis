@@ -20,10 +20,9 @@ Then run analyze_merged_tweets.py to plot his twitter usage versus time and to m
 To see the d3 visualization, open twitterword.htm in a web browser.
 
 
-To use the Donald Twitter tweet generator, created using a Markov chain similar to the one described [here](http://stackoverflow.com/questions/5306729/how-do-markov-chain-chatbots-work), run markov.py.
-
+To use the Donald Twitter tweet generator, created using a Markov chain similar to the one described [here](http://stackoverflow.com/questions/5306729/how-do-markov-chain-chatbots-work), run tweet_generator.py
 
 To post tweets generated from tweet_generator.py to Twitter, run tweet_to_twitter.py. The tweets are located at [here](https://twitter.com/reallDonaldLump).
 
 
-To start the Twitter analysis from scratch instead of merging with the older tweets, use the files contained in the folder get_and_analyze_original_tweets.
+To start the Twitter analysis from scratch instead of merging with the older tweets, use the files contained in the folder get_and_analyze_original_tweets
